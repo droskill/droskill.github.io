@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://droskill.github.io
+title: Minimal Money Management
+email: droskill@gmail.com
+author: Damian Roskill
+description: This is a website where I will document my minimal money management process and approach. I'll leverage existing asset allocation strategies
+paginate: 3
+google_analytics: 
